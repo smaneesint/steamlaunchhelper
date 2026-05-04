@@ -1,0 +1,6 @@
+launcher/_internal/
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
