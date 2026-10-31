@@ -1,0 +1,16 @@
+altgraph==0.17.5
+certifi==2026.10.23
+charset-normalizer==3.5.2
+customtkinter==6.0.0
+darkdetect==0.8.0
+idna==3.20
+packaging==26.3
+pefile==2024.8.26
+pillow==13.0.0
+pyinstaller==6.22.3
+pyinstaller-hooks-contrib==2026.9
+pywin32-ctypes==0.2.3
+requests==2.34.2
+setuptools==84.2.1
+urllib3==2.8.0
+vdf==3.4

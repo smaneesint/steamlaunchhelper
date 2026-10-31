@@ -72,3 +72,7 @@ This launcher is automatically copied into each game folder and handles:
 
 GitHub:
 https://github.com/smaneesint/steamlaunchhelper
+
+## v3.6 Steam detection fix
+
+See [v3.6 release and build instructions](RELEASE_v3_6.md) for the updated source, Windows build steps, and launcher packaging requirements.
